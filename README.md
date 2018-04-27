@@ -11,6 +11,6 @@ This repository contains all the elements to create a url randomisation for expe
 
 4. Upload the two files to your server.
 5. Point your participants to https://your-domain.com/random-script.php.
-6. Each time you visit the above url, you'll be randomly redirected to the websites which your wrote the url in 'websites.php'.
+6. Each time you'll visit the above url, you'll be randomly redirected to the websites whose url you wrote in 'websites.php'.
 
 	==**DON'T CHANGE THE NAME OF "WEBSITES.PHP”**==
