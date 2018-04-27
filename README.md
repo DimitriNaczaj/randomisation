@@ -1,7 +1,7 @@
 # URL randomisation for web experiments.
 This repository contains all the elements to create a url randomisation for experiments on the web.
 
-## Step-by-step proceedure: 
+## Step-by-step procedure: 
 1. Download and unzip the repository
 2. Open 'websites.php'.
 3. Follow the directions within the file:
@@ -10,5 +10,7 @@ This repository contains all the elements to create a url randomisation for expe
 	* Save the file.
 
 4. Upload the two files to your server.
+5. Point your participants to https://your-domain.com/random-script.php.
+6. Each time you visit the above url, you'll be randomly redirected to the websites which your wrote the url in 'websites.php'.
 
 	==**DON'T CHANGE THE NAME OF "WEBSITES.PHP”**==
