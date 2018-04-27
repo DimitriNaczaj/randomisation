@@ -1,5 +1,5 @@
-# Randomisation for web experiments.
-This repository contains all the elements to create a randomised experiment on the web.
+# URL randomisation for web experiments.
+This repository contains all the elements to create a url randomisation for experiments on the web.
 
 ## Step-by-step proceedure: 
 1. Download and unzip the repository
